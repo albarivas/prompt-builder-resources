@@ -1,6 +1,7 @@
 # Prompt Builder Resources
 
-## Contact Details
+
+## Contact Details
 
 - [TrailblazerId](http://salesforce.com/trailblazer/arivas)
 - arivas\@salesforce.com
