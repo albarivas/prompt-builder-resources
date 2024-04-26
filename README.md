@@ -11,7 +11,7 @@
 ## General
 
 - [TDX 24 deck](https://drive.google.com/file/d/1acieQ-5w6RCt0knL7DkTpfaQVpsu-h0r/view?usp=sharing)
-- dreamOlé deck
+- [dreamOlé deck](https://drive.google.com/file/d/17NNq51hSJk4-qU39iuzkUknJZ6_G34cW/view?usp=sharing)
 - [Prompt Template Examples GitHub Repo](https://github.com/trailheadapps/dreamhouse-lwc/tree/ar/prompt-templates)
 
 ## Prompt Builder
