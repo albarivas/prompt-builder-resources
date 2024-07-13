@@ -13,6 +13,7 @@
 - [TDX 24 deck](https://drive.google.com/file/d/1acieQ-5w6RCt0knL7DkTpfaQVpsu-h0r/view?usp=sharing)
 - [dreamOlé deck](https://drive.google.com/file/d/17NNq51hSJk4-qU39iuzkUknJZ6_G34cW/view?usp=sharing)
 - [Wir Sind Ohana deck](https://drive.google.com/file/d/1kM2dN5uHMqqNfcraZ4TFRyYCnYH5mg5W/view?usp=sharing)
+- [Portugal Dreamin deck](https://drive.google.com/file/d/1H5ls-Qb5w_HI8_H3Qop2_x0AAeALodBc/view?usp=sharing)
 - [Prompt Template Examples GitHub Repo](https://github.com/trailheadapps/dreamhouse-lwc/tree/ar/prompt-templates)
 
 ## Prompt Builder
@@ -26,6 +27,7 @@
 - [Video: Create Trusted Generative AI Apps with Prompt Builder](https://www.youtube.com/watch?v=yIESPYax3iE)
 - [Video: Get Started with Prompt Templates for Developers](https://www.youtube.com/watch?v=UuPWXstNjgs)
 - [Prompt Builder: Ask Me Anything with Salesforce Developers](https://www.youtube.com/watch?v=VEtSunPHnoA)
+- [RRL: Einstein 1 Platform Updates for Developers in Summer '24](https://www.youtube.com/watch?v=KVSLZ-ApK9c)
 
 ## Prompt Engineering
 
